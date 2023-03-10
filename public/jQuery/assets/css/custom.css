@@ -1,0 +1,26 @@
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li {
+    font-size: 10px !important;
+}
+span.text-danger{
+    color: #f82649 !important;
+    font-weight: bolder;
+    font-size: 13px;
+}
+textarea.custom_textarea{
+    height: 120px !important;
+    resize: none !important;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #999;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bolder;
+    font-size: 14px !important;
+    background: transparent;
+    margin-right: 2px;
+    border-style: none !important;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li {
+    font-size: 10px !important;
+    font-weight: bolder;
+}
