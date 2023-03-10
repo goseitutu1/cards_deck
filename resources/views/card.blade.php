@@ -71,7 +71,6 @@
 <!--end::Root-->
 <!--end::Main-->
 <!--begin::Javascript-->
-<script>var hostUrl = "assets/";</script>
 <!-- Jquery Core Js -->
 <script src="{{ asset('nia_assets/bundles/libscripts.bundle.js') }}"></script>
 <script src="{{ asset('jQuery/assets/js/jquery-3.4.1.min.js') }}"></script>
